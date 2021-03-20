@@ -1,6 +1,6 @@
 setuptools
 pyopenssl
-jinja2==2.6
+jinja2==2.11.3
 Pillow==1.1
 pycrypto==2.6
 webapp2==2.5.2
